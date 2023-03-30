@@ -1,5 +1,3 @@
-# deep-learning-challenge
-
 Analysis
 For this project, the unnecessary columns were dropped which were EIN and
 NAME and the remaining columns were to be considered features. Name was added
